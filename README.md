@@ -1,5 +1,5 @@
 # Football-Penalty-Game
-In my riveting journey through CSE423 - Computer Graphics, I found myself crafting an enticingly interactive football penalty game using the intriguing tool of OpenGL Python. This project became a canvas on which I painted with algorithms like the meticulous Midpoint Line, the symmetric Midpoint Circle, and the efficient Zoning - keystones of computer graphics.
+In my riveting journey through CSE423 - Computer Graphics, I found myself building an interactive football penalty game using Python OpenGL. This project became a canvas on which I painted with algorithms like the Midpoint Line, the symmetric Midpoint Circle, and the efficient Zoning - keystones of computer graphics.
 
 A challenging but rewarding aspect of this endeavor was the creation of dynamic human characters, and the ball. These digital things, brought to life by the power of algorithms, could be transformed at my whim. They danced to my tune, scaling, rotating, and altering their form under my command.
 
